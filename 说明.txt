@@ -1,1 +1,1 @@
-ssh -keygen -t rsa  生成秘钥对
+ssh-keygen -t rsa  生成秘钥对
